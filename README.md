@@ -1,18 +1,16 @@
-# Smart-Inventory-Tracking-System
+# shelf_life_app
 
-## Description
-- This project implements a smart inventory management system for restaurants.
-- It helps track ingredient shelf life and reduces food wastage using expiry prediction.
+A new Flutter project.
 
-## Features
-- Ingredient shelf-life tracking
-- Expiry alerts and notifications
-- Recipe suggestions for near-expiry items
-- Inventory analytics
+## Getting Started
 
-## Technologies Used
-- React
-- Flask
-- Firebase / MongoDB
-- Machine Learning
-- Notification System
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
